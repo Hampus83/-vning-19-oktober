@@ -1,0 +1,38 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(121, 199, 199);
+}
+
+h1 {
+    text-align: center;
+    margin: 100px;
+    background-color: rgb(78, 109, 48);
+    color: rgb(218, 187, 11);
+
+}
+
+section {
+    text-align: center;
+    margin: 50px;
+    background-color: crimson;
+    height: 250px;
+}
+
+h2 {
+   text-align: end;
+   background-color: darkred;
+   margin: 0;
+}
+
+h3 {
+    text-align: start;
+    background-color: darkorange;
+    margin: 10px;
+    padding: 10px;
+}
+
+p {
+    margin: 50px;
+}
